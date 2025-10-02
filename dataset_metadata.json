@@ -1,0 +1,49 @@
+{
+  "collection_info": {
+    "collection_date": "2025-10-02T15:22:33.826854",
+    "agent_version": "1.0",
+    "collector": "Toby Spaner",
+    "total_records": 20
+  },
+  "data_sources": [
+    "Spotify API /token"
+  ],
+  "quality_metrics": {
+    "average_quality_score": 1.0
+  },
+  "processing_history": {
+    "total_requests": 20,
+    "successful_requests": 20,
+    "failed_requests": 0,
+    "quality_scores": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "apis_used": [
+      "Spotify API /token"
+    ]
+  },
+  "variables": {
+    "name": "Song name",
+    "artist": "Primary artist",
+    "id": "Spotify unique identifier"
+  }
+}
